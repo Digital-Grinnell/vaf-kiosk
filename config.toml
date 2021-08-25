@@ -1,4 +1,4 @@
-baseurl = "https://vaf.grinnell.edu/"
+#baseurl = "https://vaf.grinnell.edu/"
 #baseurl = "https://static.grinnell.edu/vaf/"
 #baseurl = "https://var.docksal/"
 #baseurl = "http://localhost:8081/"
@@ -19,8 +19,8 @@ publishdir = "public"
     # Meta
     title = "Visualizing Abolition and Freedom"
     # subtitle = "Edit config.toml|params|subtitle to change this."
-    author = "This is config.toml|params|author"
-    description = "This is config.toml|params|description"
+    # author = "This is config.toml|params|author"
+    # description = "This is config.toml|params|description"
     keywords = "abolition, freedom, Haiti, art, Grinnell College, HSSC"
 
     # Body background color
@@ -34,7 +34,7 @@ publishdir = "public"
     footertext = "&copy; Grinnell College Libraries"
 
     # add custom css
-    custom_css = ['/css/custom.css']
+    custom_css = ['/css/custom2.css']
 
 
 # Lifted from https://gohugo.io/content-management/menus/
