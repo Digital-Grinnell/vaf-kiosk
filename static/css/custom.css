@@ -81,12 +81,14 @@ nav.top-nav a {
   position: relative;
 }
 
+/*
 .main > p {
   padding-top: 10px !important;
   padding-bottom: 0 !important;
   padding-left: 20px !important;
   padding-right: 20px !important;
 }
+*/
 
 footer > a {
   font-size: 0.75em;
