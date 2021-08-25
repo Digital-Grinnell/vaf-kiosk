@@ -34,7 +34,7 @@ publishdir = "public"
     footertext = "&copy; Grinnell College Libraries"
 
     # add custom css
-    custom_css = ['/css/custom2.css']
+    # custom_css = ['/css/custom2.css']
 
 
 # Lifted from https://gohugo.io/content-management/menus/
