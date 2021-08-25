@@ -41,8 +41,10 @@ nav.top-nav a {
   font-size: 25px;
 }
 
+
+/* The next section hides the links back to Digital.Grinnell */
 .og-expander a {
-  display: none;       /* Hiding the link for kiosk view  */
+  display: none;
 }
 
 .og-expander-inner {
@@ -130,8 +132,9 @@ p.clear {
 }
 
 div.og-link {
-  display: inline-block;
-  display: none;         /* comment this line out in order to display buttontext link to Digital.Grinnell */
+  /* comment out one of the following 'display...' lines to display or not display buttontext link to Digital.Grinnell */
+  display: none;
+  /* display: inline-block; */
   width: 30%;
   margin: 0 10px;
   border: 2px solid #c73b2b;
