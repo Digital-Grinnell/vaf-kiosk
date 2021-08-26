@@ -37,6 +37,12 @@ publishdir = "public"
     custom_css = ['/css/custom.css']
 
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.extensions]
+      linkify = false
+
+
 # Lifted from https://gohugo.io/content-management/menus/
 [menu]
 
