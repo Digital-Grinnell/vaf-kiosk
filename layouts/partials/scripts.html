@@ -374,6 +374,13 @@
 								onEndFn.call();
 							}
 
+						  // console.log("Calling window.scroll() now");
+              window.scroll({
+                top: 0,
+                left: 0,
+                behavior: 'smooth'
+              });
+              
 						}, this ), 25 );
 
 						return false;
