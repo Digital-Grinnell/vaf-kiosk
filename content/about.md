@@ -43,3 +43,4 @@ https://digital.grinnell.edu/islandora/object/grinnell:vaf.
 Static site generation using &copy;Hugo with theme adapted from &copy;Hugrid  
 by Mackenzie McFate (Grinnell College Class of 2018), and  
 Mark A. McFate, Digital Library Applications Developer, Grinnell College Libraries.  
+&nbsp;  

@@ -49,3 +49,4 @@ Cecilia Knight, Associate Professor, Library
 Mackenzie McFate (Grinnell College Class of 2018)  
 Mark McFate, Digital Library Applications Developer  
 Liz Rodrigues, Assistant Professor, Library  
+&nbsp;  
