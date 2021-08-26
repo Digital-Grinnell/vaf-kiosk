@@ -41,5 +41,5 @@ Mackenzie McFate (Grinnell College Class of 2018), and
 Mark A. McFate, Digital Library Applications Developer, Grinnell College Libraries
 
 
-Static site generation using [&copy;Hugo](https://gohugo.io/) / [License](http://www.apache.org/licenses/LICENSE-2.0)
+Static site generation using [&copy;Hugo](https://gohugo.io/) / [License](http://www.apache.org/licenses/LICENSE-2.0) &nbsp;&bull;&nbsp;
 Theme adapted from [&copy;Hugrid](https://themes.gohugo.io/hugrid/) / [License](https://github.com/aerohub/hugrid/blob/master/LICENSE.md)
