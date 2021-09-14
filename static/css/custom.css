@@ -127,8 +127,8 @@ p.clear {
 
 div.og-link {
   /* comment out one of the following 'display...' lines to display or not display buttontext link to Digital.Grinnell */
-  display: none;
-  /* display: inline-block; */
+  /* display: none; */
+  display: inline-block;
   width: 30%;
   margin: 0 10px;
   border: 2px solid #c73b2b;

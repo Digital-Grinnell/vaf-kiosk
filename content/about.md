@@ -33,14 +33,13 @@ Each block was built from five consecutive layers of resin, creating an effect w
 As the project began to take form, participation in <i>Visualizing Abolition and Freedom</i> was opened to the entire school. A first-year tutorial class, taught by Doug Hess, made this project a part of their class and facilitated an intersection between art and academics seldom seen in classes at Grinnell which are not specifically focused on art or art history. Professor Sarah Purcell’s class, "History 100: Transatlantic Revolution: Us, France, Haiti", also participated as a class, and ultimately contributed four of the blocks in the final display. A student activist group, vocal about issues of race and class, also joined the project through recognizing the importance of artwork that creates conversation both inside and outside academic spheres. The collaborative nature of this project has thus resulted in a work of art different from any public art at Grinnell College. It functions not only as a proclamation of Grinnell’s engagement with a prolific artist, but also as a statement of community and inclusion.
 </p>
 
-Additional content details are available in Digital.Grinnell's _VAF_ collection at    
-https://digital.grinnell.edu/islandora/object/grinnell:vaf.  
-&nbsp;
+ <hr class="custom-hr">
+
+Static site framework by...
+
+Mackenzie McFate (Grinnell College Class of 2018), and  
+Mark A. McFate, Digital Library Applications Developer, Grinnell College Libraries
 
 
----
-
-Static site generation using &copy;Hugo with theme adapted from &copy;Hugrid  
-by Mackenzie McFate (Grinnell College Class of 2018), and  
-Mark A. McFate, Digital Library Applications Developer, Grinnell College Libraries.  
-&nbsp;  
+Static site generation using [&copy;Hugo](https://gohugo.io/) / [License](http://www.apache.org/licenses/LICENSE-2.0) &nbsp;&bull;&nbsp;
+Theme adapted from [&copy;Hugrid](https://themes.gohugo.io/hugrid/) / [License](https://github.com/aerohub/hugrid/blob/master/LICENSE.md)
