@@ -43,6 +43,8 @@ publishdir = "public"
   [markup.goldmark]
     [markup.goldmark.extensions]
       linkify = false
+    [markup.goldmark.renderer]
+      unsafe = true
 
 
 # Lifted from https://gohugo.io/content-management/menus/
